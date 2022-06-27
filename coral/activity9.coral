@@ -1,0 +1,11 @@
+integer salaryPerYear 
+integer daysPerYear
+integer salaryPerDay
+integer Salary
+integer per
+integer day
+salaryPerYear = Get next input
+daysPerYear = Get next input
+salaryPerDay = salaryPerYear / daysPerYear
+Put "Salary per day:" to output
+Put salaryPerDay to output

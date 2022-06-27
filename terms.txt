@@ -1,0 +1,9 @@
+● Expression: a combination of items, like variables, literals, operators, and parentheses, that evaluates to a value. 
+
+● Operator: A symbol that preforms a built-in calculation, like the operator + which preforms addition.
+
+● Evaluate: replaces the expression
+
+● Precedence: An expression is evlauated using the order of standard mathematics such order known in programming as precedence rules. 
+
+● Floating-point: a real number; refers to the decimal pount being able to aooear anywhere in the number.
